@@ -1,0 +1,30 @@
+.button1 {
+    border-radius: 12px;
+    background-color: #00bfff;
+    border: none;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    font-size: 70px;
+    font-family: "Pristina";
+    text-decoration-color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+}
+input[type=text] {
+    width: 15%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+textarea {
+    width: 600px;
+    height: 300px;
+    padding: 12px, 20px;
+    box-sizing: border-box;
+    font-size: 40px;
+    font-family: "Pristina";
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    background-color: #00bfff;
+    resize: none;
+}
